@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YadidSLM
 - 👀 I’m interested in ...programing.
 - 🌱 I’m currently learning ...C language.
-- 💞️ I’m looking to collaborate on ... a futere homework which is a videogame proyect.
+- 💞️ I’m looking to collaborate on ... a futere homework which is a videogame project.
 - 📫 How to reach me ...
 
 <!---
